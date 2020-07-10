@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-  font-family: "myFirstFont";
+  font-family: myFirstFont;
   src: url(../fonts/Baskerville.ttc);
 }
 
