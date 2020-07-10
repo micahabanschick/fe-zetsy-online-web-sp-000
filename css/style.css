@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-  font-family: myFirstFont;
+  font-family: "myFirstFont";
   src: url(../fonts/Baskerville.ttc);
 }
 
@@ -11,7 +11,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: myFirstFont; 
+	font-family: "myFirstFont"; 
 }
 
 .wrapper {
